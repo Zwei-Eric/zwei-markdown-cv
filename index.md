@@ -37,7 +37,7 @@ ShenZhen, Guangdong
 
 ### __Zhejiang University, Research activities__  `2018.10 - present`
 _Laboratory member_<br>
-do research on the field of 3D ficial reconstruction under the guidance of prof. Zicheng liao. 
+do research on the field of 3D ficial reconstruction under the guidance of prof. Zicheng Liao. 
 
 ### __DiSheng Technology__ `2015.6 - 2015.8`
 _Software Engineering Intern_<br>
@@ -45,11 +45,13 @@ Worked on developing a backend program on linux for online file storage and mana
 
 
 ## Skills
-__Backend Development__
-develop a backend program on linux  to operate database information and contact with frontend sofewares. <br>
-__Machine Learning__
+__Backend Development__<br>
+develop a backend program on linux  to operate database information and contact with frontend sofewares. 
+
+__Machine Learning__<br>
 familar with usually used machine learning technology to deal with real questions. <br>
-__Computer Vision__
+
+__Computer Vision__<br>
 object detection & 3D facial reconstruction <br>
 
 
