@@ -43,17 +43,17 @@ __Penrose__ is a system that automatically visualizes mathematics using two doma
 _Research Assistant_<br>
 Worked with prof. Steven Feiner, on __Cyber Affordance Visualization in Augumented Reality__ project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
 
-### __DiSheng Technology __ `2015.6 - 2015.8`
+### __DiSheng Technology__ `2015.6 - 2015.8`
 _Software Engineering Intern_<br>
 Worked on developing a backend program on linux for a online file storage and management system .
 
 
 ## Skills
-- Backend Development
+_Backend Development_
   : develop a backend program on linux  to operate database information and contact with frontend sofewares. 
-- Machine Learning
+_Machine Learning_
   : familar with usually used machine learning technology to deal with real questions. 
-- Computer Vision
+_Computer Vision_
   : object detection & 3D facial reconstruction 
 
 Teaching Assistant, __Programming Languages and Translators (COMS 4115)__ `Columbia, 2017 - 2018` <br>
