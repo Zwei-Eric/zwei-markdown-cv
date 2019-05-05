@@ -18,7 +18,7 @@ Supported arguments:
 ## Education
 
 
-### __Zhejiang University__ `2018.9 -`
+### __Zhejiang University__ `2018.9 - present`
 ```
 HangZhou, Zhejiang
 ```
@@ -43,17 +43,17 @@ __Penrose__ is a system that automatically visualizes mathematics using two doma
 _Research Assistant_<br>
 Worked with prof. Steven Feiner, on __Cyber Affordance Visualization in Augumented Reality__ project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
 
-### __AsiaInfo__ `2015.6 - 2015.8`
+### __DiSheng Technology __ `2015.6 - 2015.8`
 _Software Engineering Intern_<br>
-Worked on server-side web applications and server deployment tools.
+Worked on developing a backend program on linux for a online file storage and management system .
 
 
 ## Skills
-* Backend Development
+- Backend Development
   : develop a backend program on linux  to operate database information and contact with frontend sofewares. 
-* Machine Learning
+- Machine Learning
   : familar with usually used machine learning technology to deal with real questions. 
-* Computer Vision
+- Computer Vision
   : object detection & 3D facial reconstruction 
 
 Teaching Assistant, __Programming Languages and Translators (COMS 4115)__ `Columbia, 2017 - 2018` <br>
