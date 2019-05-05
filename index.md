@@ -30,7 +30,7 @@ HangZhou, Zhejiang
 ShenZhen, Guangdong 
 ```
 - B.S. in physics
-- Study in Institute for Advanced Study 
+- Studied in Institute for Advanced Study 
 
 
 ## Experience
@@ -41,7 +41,7 @@ do research on the field of 3D ficial reconstruction under the guidance of prof.
 
 ### __DiSheng Technology__ `2015.6 - 2015.8`
 _Software Engineering Intern_<br>
-Worked on developing a backend program on linux for online file storage and management. 
+Worked on developing a backend program on linux for online file storage and management. I proposed a private application layer's protocol based on the TCP socket to accelarate commnications between client and server. This measure improves the server's performance by 50%.
 
 
 ## Skills
