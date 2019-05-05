@@ -18,7 +18,6 @@ Supported arguments:
 ## Education
 
 
-
 ### __Zhejiang University__ `2018.9 -`
 ```
 HangZhou, Zhejiang
@@ -49,7 +48,13 @@ _Software Engineering Intern_<br>
 Worked on server-side web applications and server deployment tools.
 
 
-## Teaching
+## Skills
+* Backend Development
+  : develop a backend program on linux  to operate database information and contact with frontend sofewares. 
+* Machine Learning
+  : familar with usually used machine learning technology to deal with real questions. 
+* Computer Vision
+  : object detection & 3D facial reconstruction 
 
 Teaching Assistant, __Programming Languages and Translators (COMS 4115)__ `Columbia, 2017 - 2018` <br>
 Teaching Assistant, __Introduction to Java II (COMP 132)__ `Dickinson, 2016` <br>
@@ -57,7 +62,7 @@ Peer Tutor, __Data Structures and Problem Solving (COMP 232)__ `Dickinson, 2016`
 Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
 
 
-## Honors & Awards
+## 
 
 Phi Beta Kappa `Dickinson, 2018` <br>
 Excellence in Computer Science Award `Columbia, 2018` <br>
