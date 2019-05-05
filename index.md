@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Zhangzhiwei's cv
+title: Zhangzhiwei's resume
 email: zhangzwei@zju.edu.cn
 phone: 18822892760
 ---
@@ -41,7 +41,7 @@ do research on the field of 3D ficial reconstruction under the guidance of prof.
 
 ### __DiSheng Technology__ `2015.6 - 2015.8`
 _Software Engineering Intern_<br>
-Worked on developing a backend program on linux for online file storage and management.
+Worked on developing a backend program on linux for online file storage and management. 
 
 
 ## Skills
@@ -52,7 +52,7 @@ __Machine Learning__<br>
 familar with usually used machine learning technology to deal with real questions. <br>
 
 __Computer Vision__<br>
-object detection & 3D facial reconstruction <br>
+object detection & 3D facial reconstruction. <br>
 
 
 ## Technology 
