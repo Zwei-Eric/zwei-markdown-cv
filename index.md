@@ -46,11 +46,11 @@ Worked on developing a backend program on linux for online file storage and mana
 
 ## Skills
 __Backend Development__
-develop a backend program on linux  to operate database information and contact with frontend sofewares. 
+develop a backend program on linux  to operate database information and contact with frontend sofewares. <br>
 __Machine Learning__
-familar with usually used machine learning technology to deal with real questions. 
+familar with usually used machine learning technology to deal with real questions. <br>
 __Computer Vision__
-object detection & 3D facial reconstruction 
+object detection & 3D facial reconstruction <br>
 
 
 ## Technology 
